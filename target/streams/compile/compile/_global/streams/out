@@ -1,0 +1,6 @@
+[debug] Acquiring lock on file D:\Java\Project\project\target\.sbt-compilation-infos\project-compile\.sbt-idea-lock ...
+[error] D:\Java\Project\src\main\scala\domain\Order.scala:5:1: expected class or object definition
+[error] interface
+[error] ^
+[error] one error found
+[debug] Releasing lock on file D:\Java\Project\project\target\.sbt-compilation-infos\project-compile\.sbt-idea-lock.

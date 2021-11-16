@@ -1,0 +1,11 @@
+[debug] Packaging D:\Java\Project\target\scala-2.13\project_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	example
+[debug] 	  D:\Java\Project\target\scala-2.13\classes\example
+[debug] 	example\Main$.class
+[debug] 	  D:\Java\Project\target\scala-2.13\classes\example\Main$.class
+[debug] 	example\Main$delayedInit$body.class
+[debug] 	  D:\Java\Project\target\scala-2.13\classes\example\Main$delayedInit$body.class
+[debug] 	example\Main.class
+[debug] 	  D:\Java\Project\target\scala-2.13\classes\example\Main.class
+[debug] Done packaging.
